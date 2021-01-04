@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#EB030303"
+    android:orientation="vertical"
+
+    tools:ignore="ContentDescription"
+    tools:context=".FeatureActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="398dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:baselineAligned="true"
+        android:minWidth="80dip"
+        android:minHeight="80dip"
+        android:overScrollMode="ifContentScrolls"
+        android:text="@string/button01"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="398dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:baselineAligned="true"
+        android:minWidth="80dip"
+        android:minHeight="80dip"
+        android:overScrollMode="ifContentScrolls"
+        android:text="@string/button02"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="398dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:baselineAligned="true"
+        android:minWidth="80dip"
+        android:minHeight="80dip"
+        android:overScrollMode="ifContentScrolls"
+        android:text="@string/button03"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="398dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:baselineAligned="true"
+        android:minWidth="80dip"
+        android:minHeight="80dip"
+        android:overScrollMode="ifContentScrolls"
+        android:text="@string/button04"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="398dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:baselineAligned="true"
+        android:minWidth="80dip"
+        android:minHeight="80dip"
+        android:overScrollMode="ifContentScrolls"
+        android:text="@string/button05"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:verticalScrollbarPosition="defaultPosition" />
+
+</LinearLayout>

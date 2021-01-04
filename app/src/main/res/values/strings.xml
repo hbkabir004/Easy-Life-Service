@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Easy Life Service :)</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Easy Life Service</string>
+    <string name="nav_header_subtitle">threemusketeers@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Welcome">Welcome To</string>
+    <string name="Title">Easy Life Service</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Trending</string>
+    <string name="menu_slideshow">Features</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="button01">Stationary Item Section</string>
+    <string name="button02">Food Management Section</string>
+    <string name="button03">Blood Donor Section</string>
+    <string name="button04">Health Care Section</string>
+    <string name="button05">Reference Book Hub</string>
+
+    <string name="stt">Hello Friends!\nBe wise. Shop Wise\n\n</string>
+    <string name="stt02">Hello Friends!\nLife is not Life without Food. Lets go for a Food Hunt then.</string>
+    <string name="stt03">Hello Friends!\nMatch Your Type and Save Life\n\n</string>
+    <string name="stt04">Hello Friends!\nAlways Caring Always Here, Bcz Your Life Matters\n\n</string>
+    <string name="stt05">Hello Friends!\nRead, Lead and Succeed\n\n</string>
+</resources>
